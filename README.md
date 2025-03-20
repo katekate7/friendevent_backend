@@ -1,4 +1,4 @@
-# Friend Event Backend
+# Friend Event Backend by Kate
 
 This is the backend for the Friend Event application, built with Symfony.
 
